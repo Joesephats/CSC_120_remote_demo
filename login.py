@@ -1,5 +1,6 @@
 # Asks for a new password
 locked = False
+userName = input("enter a username: ")
 password = input("enter your new password: ")
 
 # Checks if a legal password was entered
